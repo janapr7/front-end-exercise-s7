@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/front-end-exercise-s7/static/css/main.801925a1.css",
+    "main.js": "/front-end-exercise-s7/static/js/main.0eb53be4.js",
+    "static/js/787.06e0866d.chunk.js": "/front-end-exercise-s7/static/js/787.06e0866d.chunk.js",
+    "static/media/fruit.PNG": "/front-end-exercise-s7/static/media/fruit.4f837a9335754f83211e.PNG",
+    "static/media/seamless-fruit.jpg": "/front-end-exercise-s7/static/media/seamless-fruit.cebbf7cdf5ba8a3966af.jpg",
+    "static/media/Roboto-Regular.ttf": "/front-end-exercise-s7/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/Digital-Monospaced.ttf": "/front-end-exercise-s7/static/media/Digital-Monospaced.b4074b724b1de7a204a0.ttf",
+    "static/media/Futura-Medium-bt.ttf": "/front-end-exercise-s7/static/media/Futura-Medium-bt.4e762c29ef7b44ca51cb.ttf",
+    "static/media/Digital-Mono.ttf": "/front-end-exercise-s7/static/media/Digital-Mono.ae951a188b593952b384.ttf",
+    "static/media/Arcade.TTF": "/front-end-exercise-s7/static/media/Arcade.8f36b955d042951fd3af.TTF",
+    "index.html": "/front-end-exercise-s7/index.html",
+    "main.801925a1.css.map": "/front-end-exercise-s7/static/css/main.801925a1.css.map",
+    "main.0eb53be4.js.map": "/front-end-exercise-s7/static/js/main.0eb53be4.js.map",
+    "787.06e0866d.chunk.js.map": "/front-end-exercise-s7/static/js/787.06e0866d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.801925a1.css",
+    "static/js/main.0eb53be4.js"
+  ]
+}
